@@ -10,7 +10,7 @@ Roadmap for other technology can be found [here](https://github.com/liuchong/awe
 
 ## Roadmap
 
-![roadmap](https://github.com/nusrulnakibnahid/Full-Stack-Development/assets/105875914/8596f739-8d5e-4218-a175-86737a296448)
+
 
 
 ## How to use
