@@ -1,6 +1,6 @@
-# Laravel Developer Roadmap 2024
+# Full-Stack Developer (Laravel & PHP)
 
-### Roadmap to becoming a Laravel developer in 2024
+### Roadmap to becoming a Full-Stack Developer
 
 Below is a simple roadmap charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a laravel developer.
 
