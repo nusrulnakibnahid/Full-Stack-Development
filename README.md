@@ -18,8 +18,8 @@ Roadmap for other technology can be found [here](https://github.com/liuchong/awe
    - Set up a local development environment (XAMPP, MAMP, or Laravel Homestead)
    - Install an IDE or text editor (Visual Studio Code, PHPStorm)
 
-2. **Learn the Basics of Web Development**
-   - Understanding how the web works (HTTP, DNS, hosting)
+2. **Learn the Basics of Web Development** 
+   - Understanding how the web works (HTTP, DNS, hosting) 
    - Basic command line usage
    - Version control with Git and GitHub
 
