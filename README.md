@@ -21,6 +21,7 @@ Welcome to the Full-Stack Developer Roadmap! This guide will take you through th
 ## Introduction
 This roadmap will guide you step-by-step through learning full-stack development with a focus on Laravel and PHP. It includes useful resources, practical exercises, and best practices.
 
+
 ## Roadmap
 ![Full-Stack Developer Roadmap](https://github.com/nusrulnakibnahid/Full-Stack-Development/assets/105875914/ea3a1256-7170-4212-acd2-f0f02b08936c)
 
