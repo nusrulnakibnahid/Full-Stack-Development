@@ -1,28 +1,12 @@
-# Full-Stack Developer Roadmap (Laravel & PHP)
+# Full-Stack Developer (Laravel & PHP)
 
-Welcome to the Full-Stack Developer Roadmap! This guide will take you through the journey of becoming proficient in full-stack development using Laravel and PHP, from the basics to advanced concepts.
+### Roadmap to becoming a Full-Stack Developer
 
-## Table of Contents
-- [Full-Stack Developer Roadmap (Laravel \& PHP)](#full-stack-developer-roadmap-laravel--php)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Roadmap](#roadmap)
-  - [Getting Started](#getting-started)
-  - [Frontend Basics](#frontend-basics)
-  - [PHP Basics](#php-basics)
-  - [Database Fundamentals](#database-fundamentals)
-  - [Laravel Basics](#laravel-basics)
-  - [Building APIs](#building-apis)
-  - [Advanced Laravel](#advanced-laravel)
-  - [Frontend Frameworks](#frontend-frameworks)
-  - [Testing](#testing)
-  - [Build and Deployment](#build-and-deployment)
-  - [Best Practices](#best-practices)
-  - [Resources](#resources)
+Below is a simple roadmap charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a laravel developer.
 
-## Introduction
-This roadmap will guide you step-by-step through learning full-stack development with a focus on Laravel and PHP. It includes useful resources, practical exercises, and best practices.
+> This is simply a guide to give you an idea. It helps you navigate the ecosystem and pickup topics to learn as you go so that you don't get overwhelmed.
 
+Roadmap for other technology can be found [here](https://github.com/liuchong/awesome-roadmaps)
 
 ## Roadmap
 ![Full-Stack Developer Roadmap](https://github.com/nusrulnakibnahid/Full-Stack-Development/assets/105875914/ea3a1256-7170-4212-acd2-f0f02b08936c)
