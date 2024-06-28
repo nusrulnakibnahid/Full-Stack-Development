@@ -25,7 +25,7 @@ This roadmap will guide you step-by-step through learning full-stack development
 
 ## Roadmap
 Below is the detailed roadmap for becoming a Full-Stack Developer using Laravel & PHP.
-![roadmap](<Full-Stack Developer Roadmap.jpg>)
+![roadmap](<Full-Stack Developer Roadmap/Full-Stack Developer Roadmap.jpg>)
 
 ## Getting Started
 1. **Set Up Your Environment**
