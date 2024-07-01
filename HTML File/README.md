@@ -98,4 +98,6 @@ Welcome to the HTML Mastery Roadmap! This repository provides a comprehensive gu
 - **Regularly Updating HTML Version**
 - **Maintainability and Readability of HTML Code**
 
+------
 Feel free to explore each section and enhance your HTML skills. Happy coding!
+
