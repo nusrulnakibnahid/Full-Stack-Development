@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Table</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        table{ 
+            width: 300px;
+            height: 200px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+
+
+        tr,th,td{
+            border: 1px solid black;  
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align: center;">HTML Table</h2> <hr>
+
+    <table>
+        <caption>Student Details</caption>
+
+        <!--Table head-->
+        <thead>
+            <tr >
+                <th>ID</th>
+                <th>Name</th>
+                <th>GPA</th>
+            </tr>
+        </thead> <br>
+
+
+        <!--Table body-->  
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>A</td>
+                <td>3.92</td>
+            </tr>
+        </tbody><br>
+
+        
+        <tbody>
+            <tr>
+                <td>102</td>
+                <td>B</td>
+                <td>3.67</td>
+            </tr>
+        </tbody><br>
+
+        <tbody>
+            <tr>
+                <td>103</td>
+                <td>C</td>
+                <td>3.52</td>
+            </tr>
+        </tbody><br> <br><br>
+        
+    </table>
+
+    <br><br>
+
+  <!--Create new table-->
+    <table>
+        <caption>Student Details 2</caption>
+
+        <!--colspan-->
+        <thead>
+
+            <tr>
+
+                <th>ID</th>
+                <th>Name</th>
+                <th colspan="2">Phone</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Nahid</td>
+                <td>01969...</td>
+                <td>01612...</td>
+            </tr>
+
+            <tr>
+                <td>102</td>
+                <td>Nakib</td>
+                <td>01956...</td>
+                <td>01952...</td>
+            </tr>
+
+            <tr>
+                <td>103</td>
+                <td>Nusrul</td>
+                <td>01949...</td>
+                <td>10712...</td>
+            </tr>
+
+        </tbody>
+    </table> <br> <br>
+
+
+      <!--Create new table-->
+      <table>
+        <caption>Student Details 3</caption>
+        <!--rowspan-->
+
+      </table>
+
+    
+</body>
+</html> 
