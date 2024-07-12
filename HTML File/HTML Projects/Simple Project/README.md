@@ -4,16 +4,11 @@ This is a simple HTML project created to demonstrate various HTML elements and t
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Student Information Table](#student-information-table)
-- [Form](#form)
-- [Media](#media)
-- [Links](#links)
-- [Author](#author)
-
+- [Simple Project](#simple-project)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Usage](#usage)
 ## Introduction
 
 This project includes various HTML elements such as headings, images, iframes, tables, forms, videos, and audio elements. It is styled using basic CSS.
@@ -32,7 +27,4 @@ This project includes various HTML elements such as headings, images, iframes, t
 
 To use this project, simply clone the repository and open the `index.html` file in your web browser.
 
-```bash
-git clone https://github.com/yourusername/simple-project.git
-cd simple-project
-open index.html
+
