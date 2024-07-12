@@ -1,19 +1,187 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Simple Project</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-</head>
-<body>
-    <h1 style="text-align: center;">A Simple HTML Project</h1> <hr>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <h3 style="text-align: center; ">Study with Nahid</h3>
-    <p style="align-items: center;"> <img src="HTML File/Image/Nahidlogo.png" > </p> <hr>
+    <style>
+        table{ 
+            width: 300px;
+            height: 200px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+
+
+        tr,th,td{
+            border: 1px solid black;  
+            padding: 20px;
+        }
+
+
+    </style>
+  </head>
+
+  <body>
+    <h1 style="text-align: center" id="header">A Simple HTML Project</h1>
+    <hr />
+
+    <h3 style="text-align: center">Study with Nahid</h3>
+    <p style="align-items: center">
+      <img src="HTML File/Image/Nahidlogo.png" />
+    </p> <hr/>
+
+    <iframe
+      src="https://nusrulnakibnahid.github.io/My-Portfolio-Website/"
+      frameborder="5"
+      height="350px"
+      width="450px"></iframe>
+
+    <iframe
+      width="585"
+      height="350"
+      src="https://www.youtube.com/embed/CcGwlvqXaIg?si=94UAhzwDy3DxxsVO"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen> </iframe> <hr/>
+
+    <p>
+      Ronaldo’s first stint at Manchester United heralded 12 years of unscripted
+      success at Madrid and Turin. On the back of winning 5 Balon D'ors, Drury
+      was right to refer to him as being “beyond valuation, beyond forgery or
+      imitation.” The time he spent in Spain and in Italy were years of
+      countless records broken, and numerous awards collected. Bearing this in
+      mind, it makes sense that Drury would view Ronaldo as being beyond
+      forgery, being priceless and being beyond imitation. There is a cute and
+      nostalgic allusion to the past; something akin to reliving numberless
+      flashbacks of a young Ronaldo who mesmerised the Old Trafford faithful,
+      and terrorised defenders. Upon this realisation, the goosebumps would be
+      awash in renewed vigour. And it makes for a fitting precursor to the last
+      line of Drury’s famous introduction; an epilogue that would jolt any
+      nostalgic fan back to the present reality: “Now in his immaculate
+      maturity. CR7 reunited”.
+    </p>  <hr/> 
+
+
+    <table>
+        <caption>Student Information</caption>
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>CGPA</th>
+            </tr>
+        </thead> <br>
+
+        <tbody>
+            <td>101</td>
+            <td>Nahid</td>
+            <td>3.67</td>
+        </tbody> <br>
+
+        <tbody>
+            <td>102</td>
+            <td>Nakib</td>
+            <td>3.68</td>
+        </tbody>
+    </table> <hr>
+
+
+    <form action="#">
+
+        <fieldset>
+
+            <legend>Information</legend>
+
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" placeholder="Your username" required >
+            </div> <br>
+
+
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password" placeholder="Your password" required>
+            </div> <br>
+
+
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" placeholder="Your email" required>
+            </div> <br>
+
+
+            <div>
+                <label for="religion">Religion:</label>
+                <input type="checkbox" name="islam" id="islam" value="islam">Islam
+                <input type="checkbox" name="hindu" id="hindu" value="hindu">Hindu
+                <input type="checkbox" name="other" id="other" value="other">Other
+            </div> <br>
 
 
 
-    
-</body>
+            <div>
+                <label for="gender">Gender:</label>
+                <input type="radio" name="male" id="male">Male
+                <input type="radio" name="female" id="female">female
+            </div> <br>
+
+
+            <div>
+                <label for="department">Department:</label>
+                <select name="department" id="department">
+
+                    <option value="CSE">CSE</option>
+                    <option value="SWE">SWE</option>
+                    <option value="RE">RE</option>
+                    <option value="BBA">BBA</option>
+
+                </select>
+            </div>
+
+
+            <div>
+                <label for="feedback">Feedback:</label> <br>
+                <textarea cols="40" rows="5"></textarea>
+            </div>
+
+
+            <div>
+                <input type="submit" value="submit">
+                <input type="reset" value="clear">
+            </div>
+        </fieldset>
+
+    </form> <hr>
+
+
+
+    <p>
+        <video height="350" width="1080" controls>
+            <source src="HTML File/Video/Real madrid.mp4" type="video/mp4">
+        </video> <br>
+
+
+        <audio height="350" width="320" controls >
+            <source src="HTML File/Audio/CR7 Reunited Commentary.mp3" type="audio/mp3">
+        </audio>
+    </p> <hr>
+
+    <ol>
+        <li><a href="https://github.com/nusrulnakibnahid">My Github</a></li>
+        <li><a href="https://www.linkedin.com/in/nakib-nahid/">My Linkdin</a></li>
+        <li><a href="https://nusrulnakibnahid.github.io/My-Portfolio-Website/">My Protfolio</a></li>
+        <li><a href="" id="#header">Go to top</a></li>
+    </ol> <hr>
+
+
+    <p>Developed by <font color="blue">&copy;NAHID</font> </p>
+
+  </body>
 </html>
