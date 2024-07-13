@@ -3,4 +3,7 @@
 ### Screenshort for "Simple Project" :
 
 ## Screenshort :- 
-![Sign Up From ](<HTML File/Image/simple project img1.PNG>)
+
+![Simple Project](<../../Image/simple project img1.PNG>)
+![Simple Project](<../../Image/simple project img2.PNG>)
+![Simple Project](<../../Image/simple project img3.PNG>)
