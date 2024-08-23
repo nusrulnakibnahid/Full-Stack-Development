@@ -53,14 +53,17 @@ Feel free to contribute by suggesting improvements or adding new features. Fork 
 
 Here are some screenshots of the project:
 
-![alt text](image-1.png)
 *Description of Screenshot 1*
+![alt text](image-1.png)
 
+
+*Description of Screenshot 2*
 ![alt text](image-2.png)
-*Description of Screenshot 2*
 
-![alt text](image-3.png)
+
 *Description of Screenshot 3*
+![alt text](image-3.png)
 
+
+*Description of Screenshot 4*
 ![alt text](image-4.png)
-*Description of Screenshot 2*
